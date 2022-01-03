@@ -1,0 +1,6 @@
+name: Magic_tools
+version: '${project.version}'
+main: de.kiko.magic_tools.Magic_tools
+api-version: 1.18
+authors: [ Kiko ]
+description: A Plugin for fancy magic tools in Minecraft
